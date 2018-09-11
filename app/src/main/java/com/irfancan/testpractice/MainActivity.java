@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void stopThis(){
 
+        //Comment added
+
         Log.v("TEST VERBO","STOP TEST!");
         Log.e("TEST ERROR","ERROR TEST!");
     }
