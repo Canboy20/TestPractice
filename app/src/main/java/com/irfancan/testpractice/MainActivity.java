@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         stopThis();
 
+        //WHOA. A ROBOT JUST INVADED THIS AREA >O_O<
 
     }
 
