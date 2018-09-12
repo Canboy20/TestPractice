@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         //NOW!
         //GOOD JOB. U GOT HIM! :)
         //You have earned the Robo Predator award. Congrats!
+        //THANKS :D
 
     }
 
