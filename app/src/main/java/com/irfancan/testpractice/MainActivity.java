@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
         //You have earned the Robo Predator award. Congrats!
         //THANKS :D
 
+        //The world has been saved from the invation of evil robots.
+        //And the story ends...
+
     }
 
 
