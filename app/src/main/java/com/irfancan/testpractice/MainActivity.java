@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         //The world has been saved from the invation of evil robots.
         //And the story ends...
+        //THE END
 
     }
 
